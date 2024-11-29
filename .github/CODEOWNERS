@@ -1,0 +1,5 @@
+# El Code Owner por defecto. En este caso, el responsable de GitHub dentro de CT3 (AIMO)
+* @CT3-amartinezo
+# Define el codeowner de la documentación
+*.md @CT3-amartinezo
+*.md @CT3-Ingenieria/analysis-and-design
